@@ -8,7 +8,7 @@ package launcher;
  *
  * @author betit
  */
-public class ADA5 {
+public class LauncherAda5 {
 
     /**
      * @param args the command line arguments
