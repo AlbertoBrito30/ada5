@@ -8,7 +8,7 @@ import java.util.*;
 
 /**
  *
- * @author betit
+ * @author betits
  */
 public class RegistrarLibro {
     
