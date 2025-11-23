@@ -4,6 +4,8 @@
  */
 package launcher;
 
+import UI.UI;
+
 /**
  *
  * @author betit
@@ -15,6 +17,8 @@ public class LauncherAda5 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        UI UI = new UI();
+        UI.iniciar();
     }
     
 }

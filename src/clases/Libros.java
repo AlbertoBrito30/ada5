@@ -44,5 +44,10 @@ public class Libros {
         return numCopias;
     }
     
+    //setter de numero de copias
+    public void setNumCopias(int numCopias) {
+        this.numCopias = numCopias;
+    }
+
             
 }
