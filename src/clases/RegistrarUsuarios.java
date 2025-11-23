@@ -12,7 +12,7 @@ import java.util.*;
  */
 public class RegistrarUsuarios {
     
-    Scanner read = new Scanner(System.in);
+    private static Scanner read = new Scanner(System.in);
     
     /*creamos metodos para registrar datos del usuario (clave de Usuario)
     igual, no mayor a 5 digitos*/

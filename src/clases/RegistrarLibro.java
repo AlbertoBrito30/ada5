@@ -12,7 +12,7 @@ import java.util.*;
  */
 public class RegistrarLibro {
     
-    Scanner read = new Scanner(System.in);
+    private static Scanner read = new Scanner(System.in);
     
     //leemos el ISBN no mayor de 5 digitos
     public int isbn() throws NumberFormatException, IllegalArgumentException{
